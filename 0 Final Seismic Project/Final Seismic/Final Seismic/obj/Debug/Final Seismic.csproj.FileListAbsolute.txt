@@ -1,0 +1,32 @@
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.exe.config
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.exe
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.pdb
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csprojAssemblyReference.cache
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final_Seismic.Properties.Resources.resources
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csproj.GenerateResource.cache
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csproj.CoreCompileInputs.cache
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.exe
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.pdb
+C:\Users\sdellarosa\Desktop\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final_Seismic.rip.resources
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\SeismicLeft.txt
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\SeismicRight.txt
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.exe.config
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.exe
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.pdb
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csprojAssemblyReference.cache
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final_Seismic.rip.resources
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final_Seismic.Properties.Resources.resources
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csproj.GenerateResource.cache
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csproj.CoreCompileInputs.cache
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.exe
+\\Ahmem03\temp\Common\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.pdb
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.exe.config
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.exe
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\bin\Debug\Final Seismic.pdb
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final_Seismic.rip.resources
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final_Seismic.Properties.Resources.resources
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csproj.GenerateResource.cache
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csproj.CoreCompileInputs.cache
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.exe
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.pdb
+Z:\EUinterns\Final Seismic\Final Seismic\Final Seismic\obj\Debug\Final Seismic.csprojAssemblyReference.cache
